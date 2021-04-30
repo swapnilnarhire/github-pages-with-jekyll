@@ -1,5 +1,7 @@
-title: "Welcome to my blog"
-date: 2019-01-20
+---
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
 This pull request looks great so far. ✨ You've just edited the _config.yml file! We have some more work to do to create your blog site. You can continue to make commits on your swapnilnarhire-patch-2 branch and the pull request will update automatically.
 
 ⌨️ Activity: Add some content to your blog
