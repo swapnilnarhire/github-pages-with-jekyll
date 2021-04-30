@@ -1,6 +1,6 @@
 ---
 title: "Your blog post title"
-date: "2021-30-04"
+date: "2021-04-30"
 ---
 This pull request looks great so far. ✨ You've just edited the _config.yml file! We have some more work to do to create your blog site. You can continue to make commits on your swapnilnarhire-patch-2 branch and the pull request will update automatically.
 
